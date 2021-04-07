@@ -1,6 +1,6 @@
-# arjs
+# AR_Cards
 
-Visit For Boiler plate : [Link](https://ar-js-org.github.io/AR.js-Docs/)
+Visit For Demo : [Link](https://ar-js-org.github.io/AR.js-Docs/)
 
 For Custom image 
   - Upload the image to [NFT-Creator](https://carnaux.github.io/NFT-Marker-Creator/)
