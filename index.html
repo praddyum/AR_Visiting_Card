@@ -42,11 +42,10 @@
       smoothTolerance=".01"
       smoothThreshold="5"
     >
-      <a-entity
-        gltf-model="https://raw.githack.com/Praddy2009/AR_Visiting_Card/main/test/vids.mp4"
-        scale="5 5 5"
-        position="0 0 0"
-      >
+    <a-entity>
+      <video type="video/mp4" id="penguin-sledding" autoplay="true" loop="false" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/Praddy2009/AR_Visiting_Card/main/test/Juppiter AI Labs.mp4" webkit-playsinline>
+       </a-entity>
+       <a-video  position="0 0.2 0" src="#penguin-sledding" rotation="90 180 0"></a-video>
       </a-entity>
     </a-nft>
     <a-entity camera></a-entity>
